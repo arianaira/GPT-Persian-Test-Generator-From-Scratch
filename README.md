@@ -1,4 +1,4 @@
-## Academic Report: Persian Wikipedia Text Generator (LLM from Scratch)
+## Persian Wikipedia Text Generator (LLM from Scratch)
 
 ### 1. Introduction and Goal
 The objective of this exercise was to implement a Large Language Model (LLM) for text generation using the **Persian Wikipedia dataset**. A fundamental requirement was to implement the model **from scratch**, designing and coding the neural network architecture without using pre-trained or fine-tuned models.
