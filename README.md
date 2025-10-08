@@ -16,5 +16,3 @@ Model evaluation used Perplexity (PPL), a standard metric for language models.
 | :--- | :--- |
 | **Perplexity (PPL)** | **3.99** |
 
-### 4. Challenges Encountered
-The primary challenges stemmed from the **computational complexity** of managing and training a fully custom **Transformer architecture** on such a large volume of data, alongside the detailed effort required for robust **Persian text normalization** and character standardization.
